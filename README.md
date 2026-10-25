@@ -1,9 +1,9 @@
-# Hi there! I'm Milton 👋 
-### Backend Developer Trainee / Junior
+# Hi there! I'm Milton
+### Backend & Infrastructure Developer
 
-Soy un desarrollador enfocado en el área de **Backend** y la arquitectura de software. Me gusta construir soluciones estructuradas con **Java** y **Laravel**, aplicando el paradigma de **Programación Orientada a Objetos (POO)**, patrones de diseño y buenas prácticas de bases de datos.
+Soy Técnico en Desarrollo de Aplicaciones enfocado en el área de **Backend**, bases de datos y arquitectura de software. Me gusta construir soluciones estructuradas con **Java**, **PHP (Laravel)** y **C++**, aplicando el paradigma de **Programación Orientada a Objetos (POO)**, patrones de diseño y buenas prácticas.
 
-Actualmente realizando mis prácticas profesionales y mejorando activamente mis proyectos de escritorio y web.
+Actualmente me encuentro realizando mis prácticas profesionales, desarrollando proyectos web y de escritorio, y ampliando mis competencias hacia el mundo **DevOps** mediante la administración de servidores Linux/VPS y despliegues automatizados.
 
 ---
 
@@ -13,16 +13,20 @@ Actualmente realizando mis prácticas profesionales y mejorando activamente mis 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### Frontend & Móvil (Integración)
+#### Infraestructura & DevOps
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
+
+#### Frontend (Fundamentos de Integración)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-#### IDEs & Herramientas
+#### Herramientas & Entornos
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-IDE&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
