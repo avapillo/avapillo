@@ -1,7 +1,7 @@
 # Hola, soy Milton
 ### Backend & Infrastructure Developer
 
-Soy Técnico en Desarrollo de Aplicaciones enfocado en el área de **Backend**, bases de datos y arquitectura de software. Me gusta construir soluciones estructuradas con **Java**, **PHP (Laravel)** y **C++**, aplicando el paradigma de **Programación Orientada a Objetos (POO)**, patrones de diseño y buenas prácticas.
+Soy Técnico en Desarrollo de Aplicaciones enfocado en el área de **Backend**, bases de datos y arquitectura de software. Utilizando lenguajes y tecnologia como **Java**, **PHP (Laravel)** y **C++**, aplicando el paradigma de **Programación Orientada a Objetos (POO)**, patrones de diseño y buenas prácticas.
 
 Actualmente me encuentro realizando mis prácticas profesionales, desarrollando proyectos web y de escritorio, y ampliando mis competencias hacia el mundo **DevOps** mediante la administración de servidores Linux/VPS y despliegues automatizados.
 
@@ -30,3 +30,4 @@ Actualmente me encuentro realizando mis prácticas profesionales, desarrollando 
 #### Herramientas & Entornos
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&amp;logo=apache-netbeans-IDE&amp;logoColor=white)
