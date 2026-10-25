@@ -1,4 +1,4 @@
-# Hi there! I'm Milton
+# Hola, soy Milton
 ### Backend & Infrastructure Developer
 
 Soy Técnico en Desarrollo de Aplicaciones enfocado en el área de **Backend**, bases de datos y arquitectura de software. Me gusta construir soluciones estructuradas con **Java**, **PHP (Laravel)** y **C++**, aplicando el paradigma de **Programación Orientada a Objetos (POO)**, patrones de diseño y buenas prácticas.
